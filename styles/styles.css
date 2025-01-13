@@ -55,7 +55,7 @@ body {
     width: 100%;
     height: auto;
     display: block;
-    border: 0px solid black;
+    border: 1px solid black;
 }
 
 .side-content {
